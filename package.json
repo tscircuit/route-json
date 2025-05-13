@@ -3,6 +3,8 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
+    "format": "biome format --write .",
+    "format:check": "biome format .",
     "build": "tsup-node ./lib/index.ts --format esm --dts --sourcemap inline -d ./dist"
   },
   "devDependencies": {
