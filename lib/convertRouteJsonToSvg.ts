@@ -4,5 +4,7 @@ import { convertRouteJsonToGraphicsObject } from "./convertRouteJsonToGraphicsOb
 
 export const convertRouteJsonToSvg = (srj: SimpleRouteJson) => {
   const graphicsObject = convertRouteJsonToGraphicsObject(srj)
-  return getSvgFromGraphicsObject(graphicsObject)
+  return getSvgFromGraphicsObject(graphicsObject, {
+    backgroundColor: "white",
+  })
 }

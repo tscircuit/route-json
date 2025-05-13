@@ -1,0 +1,146 @@
+<svg width="640" height="640" viewBox="0 0 640 640" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white" />
+  <g>
+    <circle data-type="point" data-label="source_trace_2 (top)" data-x="10.124772" data-y="6.993" cx="535.6376111728197" cy="188.01450099798046" r="3" fill="hsl(0, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_2 (top)" data-x="-5.856893060790263" data-y="-8.500436101920712" cx="194.88304777758344" cy="518.3592450731591" r="3" fill="hsl(0, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_3 (top)" data-x="-6.040227999999999" data-y="9.533000000000001" cx="190.97405475790262" cy="133.8576539027816" r="3" fill="hsl(48.57142857142857, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_3 (top)" data-x="-6.856893060790263" data-y="-8.500436101920712" cx="173.56145443301696" cy="518.3592450731591" r="3" fill="hsl(48.57142857142857, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_4 (top)" data-x="-6.856893060790263" data-y="-8.500436101920712" cx="173.56145443301696" cy="518.3592450731591" r="3" fill="hsl(97.14285714285714, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_4 (top)" data-x="-10.727385294299685" data-y="-11.579453643315949" cx="91.03639298682623" cy="584.0088049915752" r="3" fill="hsl(97.14285714285714, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_6 (top)" data-x="-6.040227999999999" data-y="6.993" cx="190.97405475790262" cy="188.01450099798046" r="3" fill="hsl(145.71428571428572, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_6 (top)" data-x="-10.727385294299685" data-y="-4.579453643315949" cx="91.03639298682623" cy="434.75765157960984" r="3" fill="hsl(145.71428571428572, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_8 (top)" data-x="-2.4302279999999996" data-y="4.835" cx="267.94500673178754" cy="234.02649943555494" r="3" fill="hsl(194.28571428571428, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_8 (top)" data-x="3.6885631738662035" data-y="-8.96420520580684" cx="398.4073839012853" cy="528.247541311993" r="3" fill="hsl(194.28571428571428, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_9 (top)" data-x="-2.4302279999999996" data-y="6.74" cx="267.94500673178754" cy="193.4088641141558" r="3" fill="hsl(242.85714285714286, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_trace_9 (top)" data-x="3.6885631738662035" data-y="-10.96420520580684" cx="398.4073839012853" cy="570.890728001126" r="3" fill="hsl(242.85714285714286, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_net_0 (top)" data-x="10.124772" data-y="9.533000000000001" cx="535.6376111728197" cy="133.8576539027816" r="3" fill="hsl(291.42857142857144, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_net_0 (top)" data-x="3.2847720000000002" data-y="10.545" cx="389.79791269598496" cy="112.28020143808038" r="3" fill="hsl(291.42857142857144, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_net_0 (top)" data-x="-10.727385294299685" data-y="-8.079453643315949" cx="91.03639298682623" cy="509.3832282855925" r="3" fill="hsl(291.42857142857144, 100%, 50%)" />
+  </g>
+  <g>
+    <circle data-type="point" data-label="source_net_0 (top)" data-x="-10.727385294299685" data-y="-1.079453643315949" cx="91.03639298682623" cy="360.1320748736272" r="3" fill="hsl(291.42857142857144, 100%, 50%)" />
+  </g>
+  <rect data-type="rect" data-label="" data-x="-5.856893060790263" data-y="-8.275436101920713" x="188.48656977421348" y="511.8028551197049" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-5.856893060790263" data-y="-8.425436101920713" x="188.48656977421348" y="515.0010941213899" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-5.856893060790263" data-y="-8.575436101920712" x="188.48656977421348" y="518.1993331230748" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-5.856893060790263" data-y="-8.725436101920712" x="188.48656977421348" y="521.3975721247598" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.856893060790263" data-y="-8.275436101920713" x="167.16497642964703" y="511.8028551197049" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.856893060790263" data-y="-8.425436101920713" x="167.16497642964703" y="515.0010941213899" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.856893060790263" data-y="-8.575436101920712" x="167.16497642964703" y="518.1993331230748" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.856893060790263" data-y="-8.725436101920712" x="167.16497642964703" y="521.3975721247598" width="12.792956006739871" height="3.5180629018534546" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="12.073" x="161.65686390912373" y="58.3792134630163" width="58.634381697557785" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="9.533000000000001" x="161.65686390912373" y="112.53606055821513" width="58.634381697557785" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="6.993" x="161.65686390912373" y="166.692907653414" width="58.634381697557785" height="42.64318668913293" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="4.453" x="161.65686390912373" y="220.84975474861284" width="58.634381697557785" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="1.9129999999999998" x="161.65686390912373" y="275.0066018438117" width="58.634381697557785" height="42.643186689132904" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="-0.6269999999999998" x="161.65686390912373" y="329.16344893901055" width="58.634381697557785" height="42.643186689132904" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-6.040227999999999" data-y="-3.167" x="161.65686390912373" y="383.3202960342094" width="58.634381697557785" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="-3.167" x="506.3204203240407" y="383.3202960342094" width="58.63438169755784" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="-0.6269999999999998" x="506.3204203240407" y="329.16344893901055" width="58.63438169755784" height="42.643186689132904" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="1.9129999999999998" x="506.3204203240407" y="275.0066018438117" width="58.63438169755784" height="42.643186689132904" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="4.453" x="506.3204203240407" y="220.84975474861284" width="58.63438169755784" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="6.993" x="506.3204203240407" y="166.692907653414" width="58.63438169755784" height="42.64318668913293" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="9.533000000000001" x="506.3204203240407" y="112.53606055821513" width="58.63438169755784" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="10.124772" data-y="12.073" x="506.3204203240407" y="58.3792134630163" width="58.63438169755784" height="42.64318668913296" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-2.4302279999999996" data-y="4.835" x="241.29301505107946" y="222.29962309604338" width="53.303983361416215" height="23.453752679023125" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-2.4302279999999996" data-y="6.74" x="241.29301505107946" y="181.68198777464423" width="53.303983361416215" height="23.453752679023125" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="0.7447720000000002" data-y="13.085" x="317.51771125790464" y="40" width="36.246708685763" height="36.246708685763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.2847720000000002" data-y="13.085" x="371.67455835310346" y="40" width="36.246708685763" height="36.246708685763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="0.7447720000000002" data-y="10.545" x="317.51771125790464" y="94.15684709519888" width="36.246708685763" height="36.24670868576297" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.2847720000000002" data-y="10.545" x="371.67455835310346" y="94.15684709519888" width="36.246708685763" height="36.24670868576297" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="0.7447720000000002" data-y="8.004999999999999" x="317.51771125790464" y="148.31369419039774" width="36.246708685763" height="36.246708685763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.2847720000000002" data-y="8.004999999999999" x="371.67455835310346" y="148.31369419039774" width="36.246708685763" height="36.246708685763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="0.7447720000000002" data-y="5.465" x="317.51771125790464" y="202.47054128559657" width="36.246708685763" height="36.24670868576297" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.2847720000000002" data-y="5.465" x="371.67455835310346" y="202.47054128559657" width="36.246708685763" height="36.24670868576297" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.6885631738662035" data-y="-10.96420520580684" x="382.4161888928604" y="554.8995329927011" width="31.982390016849706" height="31.982390016849763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="3.6885631738662035" data-y="-8.96420520580684" x="382.4161888928604" y="512.2563463035682" width="31.982390016849706" height="31.982390016849763" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-10.727385294299685" data-y="-11.579453643315949" x="75.04519797840138" y="568.0176099831504" width="31.982390016849706" height="31.98239001684965" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-10.727385294299685" data-y="-8.079453643315949" x="75.04519797840138" y="493.3920332771677" width="31.982390016849706" height="31.98239001684965" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-10.727385294299685" data-y="-4.579453643315949" x="75.04519797840138" y="418.766456571185" width="31.982390016849706" height="31.982390016849706" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <rect data-type="rect" data-label="" data-x="-10.727385294299685" data-y="-1.079453643315949" x="75.04519797840138" y="344.14087986520235" width="31.982390016849706" height="31.982390016849706" fill="rgba(255,0,0,0.5)" stroke="black" stroke-width="0.04690081007734991" />
+  <g id="crosshair" style="display: none">
+    <line id="crosshair-h" y1="0" y2="640" stroke="#666" stroke-width="0.5" />
+    <line id="crosshair-v" x1="0" x2="640" stroke="#666" stroke-width="0.5" /><text id="coordinates" font-family="monospace" font-size="12" fill="#666"></text>
+  </g>
+  <script>
+    <![CDATA[
+    document.currentScript.parentElement.addEventListener('mousemove', (e) => {
+      const svg = e.currentTarget;
+      const rect = svg.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      const crosshair = svg.getElementById('crosshair');
+      const h = svg.getElementById('crosshair-h');
+      const v = svg.getElementById('crosshair-v');
+      const coords = svg.getElementById('coordinates');
+
+      crosshair.style.display = 'block';
+      h.setAttribute('x1', '0');
+      h.setAttribute('x2', '640');
+      h.setAttribute('y1', y);
+      h.setAttribute('y2', y);
+      v.setAttribute('x1', x);
+      v.setAttribute('x2', x);
+      v.setAttribute('y1', '0');
+      v.setAttribute('y2', '640');
+
+      // Calculate real coordinates using inverse transformation
+      const matrix = {
+        "a": 21.321593344566473,
+        "c": 0,
+        "e": 319.76133988236666,
+        "b": 0,
+        "d": -21.321593344566473,
+        "f": 337.11640325653383
+      };
+      // Manually invert and apply the affine transform
+      // Since we only use translate and scale, we can directly compute:
+      // x' = (x - tx) / sx
+      // y' = (y - ty) / sy
+      const sx = matrix.a;
+      const sy = matrix.d;
+      const tx = matrix.e;
+      const ty = matrix.f;
+      const realPoint = {
+        x: (x - tx) / sx,
+        y: (y - ty) / sy // Flip y back since we used negative scale
+      }
+
+      coords.textContent = `(${realPoint.x.toFixed(2)}, ${realPoint.y.toFixed(2)})`;
+      coords.setAttribute('x', (x + 5).toString());
+      coords.setAttribute('y', (y - 5).toString());
+    });
+    document.currentScript.parentElement.addEventListener('mouseleave', () => {
+      document.currentScript.parentElement.getElementById('crosshair').style.display = 'none';
+    });
+    ]]>
+  </script>
+</svg>
