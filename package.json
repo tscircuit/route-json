@@ -1,0 +1,14 @@
+{
+  "name": "route-json",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun-match-svg": "^0.0.11",
+    "zod": "^3.24.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
