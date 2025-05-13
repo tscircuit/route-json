@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { expectTypesMatch } from "../lib/utils/expect-types-match"
+import { expectTypesMatch } from "../lib/utils/expectTypesMatch"
 import { type TraceId, trace_id } from "./trace_id"
 
 export interface Obstacle {

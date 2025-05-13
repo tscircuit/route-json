@@ -1,10 +1,7 @@
 import { z } from "zod"
-import { expectTypesMatch } from "../lib/utils/expect-types-match"
+import { expectTypesMatch } from "../lib/utils/expectTypesMatch"
 import { Obstacle, obstacle } from "./obstacle"
-import {
-  SimpleRouteConnection,
-  simple_route_connection,
-} from "./connection"
+import { SimpleRouteConnection, simple_route_connection } from "./connection"
 import { TraceId, trace_id } from "./trace_id"
 
 export interface SimplifiedPcbTraceRouteWire {
@@ -61,26 +58,19 @@ export const simplified_pcb_trace = z.object({
   pcb_trace_id: trace_id,
   connection_name: z.string(),
   route: z.array(
-    z.union([
-      simplified_pcb_trace_route_wire,
-      simplified_pcb_trace_route_via,
-    ])
+    z.union([simplified_pcb_trace_route_wire, simplified_pcb_trace_route_via]),
   ),
 })
 
-expectTypesMatch<
-  z.infer<typeof simplified_pcb_trace>,
-  SimplifiedPcbTrace
->(true)
+expectTypesMatch<z.infer<typeof simplified_pcb_trace>, SimplifiedPcbTrace>(true)
 
 export type SimplifiedPcbTraces = Array<SimplifiedPcbTrace>
 
 export const simplified_pcb_traces = z.array(simplified_pcb_trace)
 
-expectTypesMatch<
-  z.infer<typeof simplified_pcb_traces>,
-  SimplifiedPcbTraces
->(true)
+expectTypesMatch<z.infer<typeof simplified_pcb_traces>, SimplifiedPcbTraces>(
+  true,
+)
 
 export interface SimpleRouteJson {
   layerCount: number

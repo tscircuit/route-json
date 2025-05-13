@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { expectTypesMatch } from "../lib/utils/expect-types-match"
+import { expectTypesMatch } from "../lib/utils/expectTypesMatch"
 import { PointToConnect, point_to_connect } from "./point_to_connect"
 
 export interface SimpleRouteConnection {

@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { expectTypesMatch } from "../lib/utils/expect-types-match"
+import { expectTypesMatch } from "../lib/utils/expectTypesMatch"
 
 export interface PointToConnect {
   x: number
