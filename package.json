@@ -2,10 +2,13 @@
   "name": "route-json",
   "module": "index.ts",
   "type": "module",
-  "private": true,
+  "scripts": {
+    "build": "tsup-node ./lib/index.ts --format esm --dts --sourcemap inline -d ./dist"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "bun-match-svg": "^0.0.11",
+    "tsup": "^8.4.0",
     "zod": "^3.24.4"
   },
   "peerDependencies": {
