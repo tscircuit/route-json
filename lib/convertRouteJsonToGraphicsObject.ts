@@ -10,7 +10,7 @@ export const convertRouteJsonToGraphicsObject = (srj: SimpleRouteJson) => {
   const points: Point[] = []
 
   const colorMap: Record<string, string> = getColorMap(srj)
-  const layerCount = 2
+  const layerCount = srj.layerCount
 
   // Add points for each connection's pointsToConnect
   if (srj.connections) {
@@ -85,7 +85,9 @@ export const convertRouteJsonToGraphicsObject = (srj: SimpleRouteJson) => {
           width: o.width,
           height: o.height,
           fill: "rgba(255,0,0,0.5)",
-          layer: `z${o.layers.map(mapLayerNameToZ).join(",")}`,
+          layer: `z${o.layers
+            .map((layer) => mapLayerNameToZ(layer, layerCount))
+            .join(",")}`,
         }) as Rect,
     ),
     circles,
